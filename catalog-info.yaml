@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: devhub-content-template-test
+  title: DevHub Content Template Test
+  description: DevHub Content Template Test
+  annotations:
+    github.com/project-slug: bcgov/devhub-content-template-test-002
+    backstage.io/techdocs-ref: dir:.
+    bcgovpubcode.gov.bc.ca/ministry: CITZ
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: developer-experience

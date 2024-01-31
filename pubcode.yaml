@@ -1,0 +1,11 @@
+version: 1
+data_management_roles:
+  product_owner: 
+product_information:
+  ministry: CITZ
+  product_acronym: 
+  product_description: DevHub Content Template Test
+  product_name: 
+  program_area: 
+product_technology_information:
+  hosting_platforms: Private-Cloud-Openshift

@@ -1,0 +1,12 @@
+site_name: "DevHub Content Template Test"
+site_description: "DevHub Content Template Test"
+docs_dir: "docs"
+edit_uri: edit/main/docs/
+plugins:
+    - techdocs-core
+    - ezlinks
+markdown_extensions:
+    - markdown_inline_mermaid
+    - md_in_html
+    -   mkpatcher:
+            location: patcher.py
